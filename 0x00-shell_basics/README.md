@@ -33,3 +33,6 @@
 
 ## 11-lists
 	_Write a script that lists all files in the current directory and the parent of the working directory and the /boot directory_
+
+## 12-file_type
+	_script that prints the type of the file named iamafile_
