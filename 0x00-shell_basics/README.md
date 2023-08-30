@@ -25,3 +25,5 @@
 ## 8-firstdelete
 	_Delete a file_
 
+## 9-firstdirdeletion
+	_Delete a directory_
