@@ -21,3 +21,7 @@
 
 ## 7-movethatfile
 	_Move a file_
+
+## 8-firstdelete
+	_Delete a file_
+
