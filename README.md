@@ -1,1 +1,1 @@
-LEARING THE BASICs OF SHELL
+this repository contains some exercices related to shell
