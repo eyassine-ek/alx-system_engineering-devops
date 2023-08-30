@@ -12,3 +12,6 @@
 
 ## 4-listmorefiles
 	_Display current directory contents, including hidden files_
+
+## 5-listfilesdigitonly
+	_Display current directory contents with digits only_
