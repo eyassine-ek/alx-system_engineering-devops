@@ -30,3 +30,6 @@
 
 ## 10-back
 	_a script that changes the working directory to the previous one._
+
+## 11-lists
+	_Write a script that lists all files in the current directory and the parent of the working directory and the /boot directory_
