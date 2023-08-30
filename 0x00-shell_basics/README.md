@@ -9,3 +9,6 @@
 
 ## 3-listfiles
 	_Display current directory contents in a long format_
+
+## 4-listmorefiles
+	_Display current directory contents, including hidden files_
