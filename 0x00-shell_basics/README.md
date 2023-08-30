@@ -6,3 +6,6 @@
 
 ## 2-bring_me_home
 	_changes the working directory to the user’s home directory._
+
+## 3-listfiles
+	_Display current directory contents in a long format_
