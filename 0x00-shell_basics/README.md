@@ -15,3 +15,6 @@
 
 ## 5-listfilesdigitonly
 	_Display current directory contents with digits only_
+
+## 6-firstdirectory
+	_a script that creates a directory named my_first_directory in the /tmp/ directory._
