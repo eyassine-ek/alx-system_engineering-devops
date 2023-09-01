@@ -1,0 +1,2 @@
+#!/bin/bash
+touch $1 && chmod u+x $1 && echo "#!/bin/bash" > $1

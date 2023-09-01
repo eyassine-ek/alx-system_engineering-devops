@@ -1,3 +1,5 @@
+## create_and_give_permissions.sh
+	take a file as argument, create it, change its permissions, and write the shebang
 ## 0-iam_betty
 	a script that switches the current user to the user betty
 
@@ -12,4 +14,5 @@
 
 ## 4-empty
 	a script that creates an empty file called hello
+
 	
