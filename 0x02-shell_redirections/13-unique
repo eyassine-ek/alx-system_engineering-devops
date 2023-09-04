@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -c file | grep "1"
+cat file | sort | uniq -u
